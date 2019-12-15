@@ -1,6 +1,6 @@
 # Ultrasonic-Sensor-and-SerLCD-Display-with-Attiny-817
 
-### Parts: 
+#### Parts: 
 * SparkFun SerLCD 16x2 
 * Ultrasonic Ranging Module HC - SR04 
 * and ATtiny817 Xplained Pro
